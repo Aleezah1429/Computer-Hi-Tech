@@ -56,5 +56,6 @@ After click any category, display all the products according to selected categor
 ## Cart:
 After click add to card, all general information, technical specification, request quote and related products shows
 
-![image](https://user-images.githubusercontent.com/64039135/189526310-f33e67d4-13e3-493d-9587-3fd910f8674f.png)
+![image](https://user-images.githubusercontent.com/64039135/189526582-4c9883ef-ad43-420b-992d-0ba0ec45723e.png)
+
 
