@@ -24,9 +24,13 @@ Computer Hi-Tech website consists of the following pages:
 
 This is the Signup modal
 
-![image](https://user-images.githubusercontent.com/64039135/189537836-82fc4a89-2e95-499a-959c-891733586235.png)
+![image](https://user-images.githubusercontent.com/64039135/189538901-d5f6a40a-4661-4641-a108-a2fb2a6ae371.png)
 
-after successfully signup cart functionality is available for the user
+and this is the Login modal (email = aleezah@gmail.com and password = 12345)
+
+![image](https://user-images.githubusercontent.com/64039135/189538953-7fdd18f3-1533-46d1-a673-4907d1644eaf.png)
+
+after successfully signup or signin cart functionality is available for the user
 
 ## Home Screen:
 It displays the featured and latest products and other information.
@@ -63,5 +67,6 @@ After click add to card, all general information, technical specification, reque
 
 ## Logout:
 
-![image](https://user-images.githubusercontent.com/64039135/189537538-d23df5cc-006c-43d8-9f5f-ba43c282b078.png)
+![image](https://user-images.githubusercontent.com/64039135/189539004-a499cd68-3f0a-46dd-9c51-fdd7a118ee4c.png)
+
 
