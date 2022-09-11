@@ -1,12 +1,12 @@
 # Computer Hi-Tech Website
 
-This is the link of Computer Hi-Tech Website => 
+This is the link of Computer Hi-Tech Website => https://computer-hi-tech.web.app/
 
 Computer Hi-Tech is a online marketplace or computer parts store where we can easily buy all computer parts available at reasonable price.
 Computer Hi-Tech built on **REACT JS** and **MONGODB**
 Frontend deploy on **firebase** and Backend deploy on **Heroku**.
-Also use **STRIPE** i.e. react-stripe-checkout for online payment and 
-use **socket.io** for online chat.
+also use **STRIPE** i.e. react-stripe-checkout for online payment and 
+use **socket.io** for online chat with beautiful animations.
 
 ## DESCRIPTION
 Computer Hi-Tech website consists of the following pages:
@@ -21,9 +21,12 @@ Computer Hi-Tech website consists of the following pages:
 # FRONTEND:
 
 ## Login/Signup Screen:
-This is the Login and Signup screen, after successfully signin it navigates the home screen.
 
-(email => aleezah@gmail.com and password => 12345)
+This is the Signup modal
+
+![image](https://user-images.githubusercontent.com/64039135/189537836-82fc4a89-2e95-499a-959c-891733586235.png)
+
+after successfully signup cart functionality is available for the user
 
 ## Home Screen:
 It displays the featured and latest products and other information.
@@ -58,4 +61,7 @@ After click add to card, all general information, technical specification, reque
 
 ![image](https://user-images.githubusercontent.com/64039135/189526582-4c9883ef-ad43-420b-992d-0ba0ec45723e.png)
 
+## Logout:
+
+![image](https://user-images.githubusercontent.com/64039135/189537538-d23df5cc-006c-43d8-9f5f-ba43c282b078.png)
 
