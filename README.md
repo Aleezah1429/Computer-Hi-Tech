@@ -37,6 +37,12 @@ It displays the featured and latest products and other information.
 
 ![image](https://user-images.githubusercontent.com/64039135/189525794-99962188-d41c-40ae-a4a4-5b2ed0030e5f.png)
 
+## Chat App:
+This is the live chat where user can easily chat with admin
+
+![image](https://user-images.githubusercontent.com/64039135/189539285-125f33c8-529d-43d3-b3aa-5908e692cfc0.png)
+
+
 ## About Us:
 It displays all the information and history of Computer Hi-Tech
 
